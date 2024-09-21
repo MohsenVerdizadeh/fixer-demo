@@ -1,8 +1,8 @@
 Metadata-Version: 2.1
 Name: fixer_demo
-Version: 0.1
+Version: 0.2
 Summary: Fixer Service demo packages
-Home-page: #
+Home-page: https://github.com/MohsenVerdizadeh/fixer-demo.git
 Author: mohsen
 Author-email: mohsenverdizadehkohi@gmail.com
 License: MIT
