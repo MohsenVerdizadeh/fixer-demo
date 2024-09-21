@@ -9,6 +9,6 @@ setup(
     author_email='mohsenverdizadehkohi@gmail.com',
     license='MIT',
     packages=['fixer'],
-    install_requiers=['requests'],
-    zip_safe=False
+    zip_safe=False,
+    install_requires=['requests']
 )
